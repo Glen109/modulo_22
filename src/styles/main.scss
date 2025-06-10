@@ -1,4 +1,6 @@
 @use 'hero';
+@use './components/infos_bar';
+@use './components/buttons';
 
 * {
     margin: 0;
